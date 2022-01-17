@@ -39,3 +39,8 @@ body
     font-weight: normal;
     font-size: o.8em;
 }
+
+#post
+{
+    padding: 1em;
+}
